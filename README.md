@@ -3,5 +3,5 @@
 
 ## Requirements
 - Node.js
--- Discord.js
--- file-system 
+- Discord.js (Tested with 11.5.0)
+- file-system (NPM module, tested with 2.2.2)
