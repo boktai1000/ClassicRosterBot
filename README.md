@@ -9,7 +9,10 @@ Discord Bot for WoW Classic that can track the total amount of players in a Clas
 ## Discord Requirements
 - Server ID
 - Channel ID
+- Message ID (Used by wow-persistent.js, optional and requires wow-initial.js to run once)
 - The following roles: Raider, DPS, Healer, Tank, Druid, Hunter, Mage, Paladin, Priest, Rogue, Warlock, Warrior
+
+It is recommended to enable Developer Mode for your account to grab IDs more easily, or have a Bot that can query IDs for you (Carl-bot, etc).
 
 ## Usage
 - wow-initial.js
