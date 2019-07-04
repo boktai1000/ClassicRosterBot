@@ -1,5 +1,5 @@
 # Classic Roster Bot
-### Discord Bot for WoW Classic that can track the total amount of players in a Class as well as total Raiders in a post on your Discord server
+Discord Bot for WoW Classic that can track the total amount of players in a Class as well as total Raiders in a post on your Discord server
 
 ## Technical Requirements
 - Node.js
