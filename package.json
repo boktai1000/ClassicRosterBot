@@ -1,0 +1,25 @@
+{
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "WoW.js",
+
+  "scripts": {
+
+    "start": "node WoW.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.5.0",
+
+    "file-system": "2.2.2"
+
+  }
+
+}
