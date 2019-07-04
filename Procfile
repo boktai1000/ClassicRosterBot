@@ -1,1 +1,1 @@
-worker: node wow.js
+worker: node wow-initial.js
