@@ -19,3 +19,6 @@ This is used to create your initial post, you can continue to use this file but 
 - wow-persistent.js
 
 This is used to embed a Message ID into the JS file to hardcode and inform the Bot to only edit and modify that post. This will prevent the bot from creating new posts.
+
+## Heroku
+- https://medium.com/@mason.spr/hosting-a-discord-js-bot-for-free-using-heroku-564c3da2d23f
